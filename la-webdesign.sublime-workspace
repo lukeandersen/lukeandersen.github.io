@@ -1,0 +1,849 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"trasit",
+				"transition"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding:   (property)"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bad",
+				"background-image"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bo",
+				"bottom:   (property)"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fl",
+				"fl:l	float:left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin-bottom:   (property)"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"slide",
+				"slideToggle  (function)"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"widget",
+				"widget-title"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"lt",
+				"lt-gray"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"gallery",
+				"gallery-info"
+			],
+			[
+				"ga",
+				"gallery-item"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width:   (property)"
+			],
+			[
+				"gra",
+				"lt-gray"
+			],
+			[
+				"nth",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"inline",
+				"inline-block  (value)"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"Par",
+				"ParseService"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"g",
+				"gothic"
+			],
+			[
+				"trave",
+				"travel_category"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"f",
+				"fz	font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"tes",
+				"text-transform"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"icon",
+				"icon-camera"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"4px",
+				"4px"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"image",
+				"imageSlides"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"lin",
+				"line-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/js/script.js",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/single-gallery.php",
+		"/Users/lukeandersen/Downloads/startup-demo-master/Developer/common-files/js/jquery.scrollTo-1.4.3.1-min.js",
+		"/Users/lukeandersen/Sites/walker-build/wp-content/themes/embark/functions.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/archive-projects.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/header.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/sass/partials/_helpers.scss",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/functions/custom-post-types/projects.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/content-single.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/sass/partials/_plugins.scss",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/js/plugins.js",
+		"/Users/lukeandersen/Downloads/imakewebthings-jquery-waypoints-415eb55/waypoints.min.js",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/template-home.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/sass/partials/_type.scss",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/functions/shortcodes.php",
+		"/Users/lukeandersen/Downloads/startup-demo-master/Developer/samples/sample-04/js/script.js",
+		"/Users/lukeandersen/Sites/walker-build/wp-content/themes/embark/template-home.php",
+		"/Users/lukeandersen/Sites/walker-build/wp-content/themes/embark/header.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/functions.php",
+		"/Users/lukeandersen/Dropbox/client-sites/Reactive-templates/Middleman-Template/source/shared/js/main.js",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/footer.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/index.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/archive.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/content.php",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/sass/partials/_forms-buttons.scss",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/archive-gallery.php",
+		"/Users/lukeandersen/Downloads/icons (1)/style.css",
+		"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark/sass/partials/_nav.scss",
+		"/Users/lukeandersen/Sites/walker-build/wp-content/themes/embark/sass/style.scss",
+		"/Users/lukeandersen/Sites/walker-build/wp-content/themes/embark/footer.php",
+		"/Users/lukeandersen/Sites/walker-build/wp-content/themes/embark/functions/module-callout.php",
+		"/Users/lukeandersen/Sites/walker-build/wp-content/themes/embark/functions/shortcodes.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/archive.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/index.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/module-clients.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/style.scss",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/js/script.js",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/shortcodes.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/template-tags.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/partials/_type.scss",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/partials/_forms-buttons.scss",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/content.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/template-home.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/archive-gallery.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/single-gallery.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/404.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/module-callout.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/footer.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/image.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/template-full.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/taxonomy-travel_category.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/functions/custom-post-types/travel.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/archive-travel.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/module-brands.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/header.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/salient/template-home-1.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/template-contact.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/partials/_helpers.scss",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/salient/header.php",
+		"/Users/lukeandersen/Downloads/fancyapps-fancyBox-18d1712/source/jquery.fancybox.pack.js",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/content-single.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/module-share.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/page.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/template-services.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/partials/_plugins.scss",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/no-results.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/search.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/js/plugins.js",
+		"/Users/lukeandersen/Downloads/fancyapps-fancyBox-18d1712/source/jquery.fancybox.css",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/module-contact.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/index.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/functions/template-tags.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/functions/extras.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/content-page.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/single.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/searchform.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/sass/style.scss",
+		"/Users/lukeandersen/Dropbox/Wordpress/embark/functions.php",
+		"/Users/lukeandersen/Dropbox/client-sites/minx/embark/content-single.php",
+		"/Users/lukeandersen/Dropbox/client-sites/minx/embark/functions/template-tags.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sidebar.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/salient/index.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/comments.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/partials/_grid.scss",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/partials/_mixins.scss",
+		"/Users/lukeandersen/Downloads/woothemes-FlexSlider-7ecc526/flexslider.css",
+		"/Users/lukeandersen/Downloads/woothemes-FlexSlider-7ecc526/jquery.flexslider-min.js",
+		"/Users/lukeandersen/Downloads/woothemes-FlexSlider-7ecc526/jquery.flexslider.js",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/custom-widgets/widget-latest-post.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/functions/custom-post-types/gallery.php",
+		"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark/archive.php",
+		"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark/sass/partials/_widgets.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/Reactive-templates/Middle-Foundation/source/layout.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/Reactive-templates/Middle-Foundation/source/shared/css/main.css.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/Reactive-templates/Middle-Foundation/source/shared/css/partials/_nav.scss",
+		"/Users/lukeandersen/Dropbox/Wordpress/embark/sass/partials/_helpers.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/shared/css/main.css.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/home.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/partials/_header.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/shared/css/partials/_plugins.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/shared/css/partials/_media-queries.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/layout.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/shared/js/main.js",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/contact.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/partials/_footer.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/shared/css/partials/_type.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/shared/css/partials/_forms-buttons.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/shared/css/partials/_helpers.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/config.rb",
+		"/Users/lukeandersen/Dropbox/inspiration",
+		"/Users/lukeandersen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/lukeandersen/Desktop/Desktop.rar Folder/templates/build/shared/js/main.js",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/portfolio-3.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/portfolio-single.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/single.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/elements.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/blog.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/GTK-Construction/source/home-full.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/index.html.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/partials/_header.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/shared/css/partials/_type.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/shared/css/partials/_forms-buttons.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/shared/css/partials/_helpers.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/layout.erb",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/shared/css/partials/_mixins.scss",
+		"/Users/lukeandersen/Sites/assemble/app/styles/main.scss",
+		"/Users/lukeandersen/Dropbox/client-sites/pilot/landing/source/partials/_nav.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/lukeandersen/Sites/thomson-st/site/wp-content/themes/embark",
+			"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embark",
+			"/Users/lukeandersen/Sites/minx-2014/site/wp-content/themes/embarksubmit commen",
+			"/Users/lukeandersen/Dropbox/client-sites/minx/embark",
+			"/Users/lukeandersen/Downloads/IDStore_Responsive_WordPress_Theme/idstore",
+			"/Users/lukeandersen/Dropbox/Client Sites/KleanDream/HTML",
+			"/Users/lukeandersen/Sites/mscritique/wordpress/wp-content/themes/embark",
+			"/Users/lukeandersen/Sites/wordpress/wp-content/themes/greenearth/",
+			"/Users/lukeandersen/Sites/wordpress/wp-content/themes/greenearth",
+			"/Users/lukeandersen/Sites/wordpress/wp-content/themes/flashlight"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2.5",
+			" @include scale(1.1);",
+			"transition: translateX(0);",
+			"@include translateX(0);",
+			"footer",
+			"fotter",
+			"projectelay",
+			"projectSpeed",
+			"projectelay",
+			"projectSpeed",
+			"delay",
+			"speed",
+			".75s",
+			"audio",
+			"contact",
+			"get_post_thumbnail_id",
+			"times",
+			"proectTitle",
+			"-18",
+			"close",
+			"15px",
+			"fancybox-skin",
+			"     ?>",
+			"opacity: 1;",
+			"transition",
+			"opacity: 1;",
+			"transition: opacity",
+			"opacity",
+			".5s",
+			"1s",
+			".9",
+			"content",
+			"highlight_posts",
+			"100px",
+			"white",
+			"webkit",
+			"0%   { \n      opacity: .5;\n      @include translateY(0);\n    }\n    100% { \n      opacity: 1;\n      @include translateY(-20px);\n    }",
+			"alternate",
+			"bottom: 112px;",
+			"bottom: 100px;",
+			".3",
+			"margin-top: 0;",
+			"margin-top: 5px;",
+			"0%   { opacity: .3; }\n  100% { opacity: 1; }",
+			"linear",
+			"opacity: 0",
+			"3s",
+			"5s",
+			"reverse",
+			"1s",
+			"1",
+			"alternate",
+			"5s",
+			"infinite",
+			"NAME-YOUR-ANIMATION",
+			"4",
+			"gallery",
+			"Gallery",
+			"gallery",
+			"Gallery",
+			"gallery",
+			"pink",
+			"$pink",
+			"open",
+			"$open",
+			"open",
+			"site-intro",
+			"<?",
+			"gallery",
+			"Gallery",
+			"Categories",
+			"TRUE",
+			"previous_post_link",
+			"Gallery",
+			"primary",
+			"check",
+			"tick",
+			"ul",
+			"steel",
+			"play",
+			"you",
+			"hg_framework_icon",
+			"hg_framework_callout",
+			"gallery-info",
+			"5em",
+			"font-weight: 600;",
+			"600",
+			"2",
+			"h3",
+			"$steel",
+			"pink",
+			"site-content",
+			"post_id",
+			"more-link",
+			"responses",
+			"cancel-comment-reply",
+			"Leave a Reply",
+			"respond",
+			"nav-previous",
+			"S",
+			"s",
+			"require",
+			"short",
+			"Short",
+			"short",
+			"Short",
+			"short",
+			"Short",
+			"short",
+			"audio",
+			"playlist",
+			"audio",
+			">\n",
+			"h3",
+			"{{PAGE URL}}",
+			"url('",
+			"h4",
+			"site-navigation",
+			"embark_content_nav",
+			"nav-belo",
+			"small",
+			"gallery-item",
+			"galleries",
+			"galeries",
+			"light-font",
+			"submit comment",
+			"h3",
+			"comment-reply-title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#CCC",
+			"$red",
+			"$border-solid",
+			"$border-dotted",
+			"$border",
+			"$main",
+			"shared/images/",
+			"$orange",
+			"shared/images/",
+			"images/",
+			"<h4><a href=\"portfolio-single.html\">Portfolio project title</a></h4>",
+			"#E46942",
+			"class=\"page-title divider\"",
+			"$loud",
+			"black"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"type",
+				"sass/partials/_type.scss"
+			],
+			[
+				"ty",
+				"sass/partials/_type.scss"
+			],
+			[
+				"help",
+				"sass/partials/_helpers.scss"
+			],
+			[
+				"plu",
+				"js/plugins.js"
+			],
+			[
+				"form",
+				"sass/partials/_forms-buttons.scss"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"typ",
+				"sass/partials/_type.scss"
+			],
+			[
+				"btn",
+				"sass/partials/_forms-buttons.scss"
+			],
+			[
+				"pl",
+				"sass/partials/_plugins.scss"
+			],
+			[
+				"mi",
+				"sass/partials/_mixins.scss"
+			],
+			[
+				"helpers",
+				"sass/partials/_helpers.scss"
+			],
+			[
+				"grid",
+				"sass/partials/_grid.scss"
+			],
+			[
+				"main",
+				"source/shared/js/main.js"
+			],
+			[
+				"me",
+				"source/shared/css/partials/_media-queries.scss"
+			],
+			[
+				"med",
+				"source/shared/css/partials/_media-queries.scss"
+			],
+			[
+				"mai",
+				"source/shared/js/main.js"
+			],
+			[
+				"home",
+				"source/home.html.erb"
+			],
+			[
+				"he",
+				"source/partials/_header.erb"
+			],
+			[
+				"orm",
+				"source/shared/css/partials/_forms-buttons.scss"
+			],
+			[
+				"mix",
+				"landing/source/shared/css/partials/_mixins.scss"
+			],
+			[
+				"media",
+				"shared/css/partials/_media-queries.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/lukeandersen/Dropbox/Client Sites/GTK-Construction/HTML/GTK.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
